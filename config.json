@@ -1,0 +1,14 @@
+{
+    "info_sistema": {
+        "to_do":"si",
+        "to_file":"si"
+    },
+    "wifi_info": {
+        "to_do":"si",
+        "to_file":"si"
+    },
+    "wifi_pw": {
+        "to_do":"si",
+        "to_file":"si"
+    }
+}
